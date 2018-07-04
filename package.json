@@ -1,0 +1,22 @@
+{
+  "name": "main-api",
+  "version": "0.0.4",
+  "description": "Coffee-Apps-API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Xedon(FichtnerLukas) <xedon@arctic-network.com> (https://github.com/XedonDev)",
+  "license": "SEE LICENSE FILE: LICENSE.md",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "gamedig": "^1.0.41",
+    "get-json": "^1.0.0",
+    "json-query": "^2.2.2",
+    "mysql": "^2.15.0",
+    "sha256": "^0.2.0",
+    "unix-time": "^1.0.1",
+    "update": "^0.7.4"
+  }
+}
